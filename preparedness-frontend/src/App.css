@@ -1,0 +1,29 @@
+.entire-content {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.form {
+    text-align: center;
+}
+
+.input Label {
+    color: white;
+    font-size: 35px;
+}
+
+.input Input {
+    font-size: 18px;
+    width: 50%;
+    margin: auto;
+    padding: 6px 12px;
+}
+
+.form Button {
+    background-color: #0dcaf0;
+    color: white;
+    width: 100px;
+    padding: 10px;
+    margin: 20px 20px 20px;
+}
